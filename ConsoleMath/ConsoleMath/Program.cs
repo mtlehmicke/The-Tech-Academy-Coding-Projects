@@ -4,7 +4,7 @@ namespace ConsoleMath
 {
     class Program
     {
-        public static void Main()
+        static void Main()
         {
             Console.WriteLine("Enter an integer to be multiplied by 50:");
             int num1 = Convert.ToInt32(Console.ReadLine());
