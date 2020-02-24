@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\bin\Debug\netcoreapp3.1\WhileDoWhileApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\obj\Debug\netcoreapp3.1\WhileDoWhileApp.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\obj\Debug\netcoreapp3.1\WhileDoWhileApp.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\obj\Debug\netcoreapp3.1\WhileDoWhileApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\obj\Debug\netcoreapp3.1\WhileDoWhileApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\WhileDoWhileApp\WhileDoWhileApp\obj\Debug\netcoreapp3.1\WhileDoWhileApp.csprojAssemblyReference.cache
