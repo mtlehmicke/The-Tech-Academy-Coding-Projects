@@ -6,11 +6,15 @@ namespace ComplexMethods
     {
         static class firstClass
         {
-            public static void DivMethod(double x)
+            public static void DupMethod(int x)
+            {
+                Console.WriteLine(x * 2);
+            }
+            public static void DupMethod(double x)
             {
                 Console.WriteLine(x / 2);
             }
-            public static void DivMethod(int x, out int y, out int z)
+            public static void OutMethod(int x, out int y, out int z)
             {
                 y = 10;
                 z = 3;
@@ -19,10 +23,17 @@ namespace ComplexMethods
         }
         static void Main()
         {
-            double theDouble = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter an integer:");
+            double theInteger = Convert.ToInt32(Console.ReadLine());
+            firstClass.DupMethod(theInteger);
 
-            Console.WriteLine("Entern an integer:");
-            firstClass.DivMethod(theDouble);
+            Console.WriteLine("Enter a double:");
+            double theDouble = Convert.ToDouble(Console.ReadLine());
+            firstClass.DupMethod(theDouble);
+
+            Console.WriteLine("Enter another integer:");
+            int theOut = Convert.ToInt32(Console.ReadLine());
+            firstClass.DupMethod(theOut);
         }
     }
 }
