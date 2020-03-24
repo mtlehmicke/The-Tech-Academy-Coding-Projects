@@ -6,24 +6,23 @@ namespace MethodApp
 {
     class Class1
     {
-        public static int theInteger = Convert.ToInt32(Console.ReadLine());
 
-        public static void MethodOne()
+        public static void MethodOne(int x)
         {
-            Console.WriteLine(theInteger + " multiplied by ten equals:");
-            Console.WriteLine(theInteger * 10);
+            Console.Write(x + " multiplied by ten equals: ");
+            Console.WriteLine(x * 10);
         }
 
-        public static void MethodTwo()
+        public static void MethodTwo(int x)
         {
-            Console.WriteLine(theInteger + " plus fifty equals:");
-            Console.WriteLine(theInteger + 50);
+            Console.Write(x + " plus fifty equals: ");
+            Console.WriteLine(x + 50);
         }
 
-        public static void MethodThree()
+        public static void MethodThree(int x)
         {
-            Console.WriteLine(theInteger + " divided by three equals:");
-            Console.WriteLine(theInteger / 3);
+            Console.Write(x + " divided by three equals: ");
+            Console.WriteLine(x / 3);
         }
     }
 }

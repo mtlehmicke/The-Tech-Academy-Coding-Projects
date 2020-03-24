@@ -9,3 +9,5 @@ C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\D
 C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.AssemblyInfo.cs
 C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.dll
 C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.genruntimeconfig.cache
