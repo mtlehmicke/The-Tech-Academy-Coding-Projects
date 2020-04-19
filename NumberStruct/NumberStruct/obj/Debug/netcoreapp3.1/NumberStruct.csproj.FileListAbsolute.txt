@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\bin\Debug\netcoreapp3.1\NumberStruct.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\NumberStruct\NumberStruct\obj\Debug\netcoreapp3.1\NumberStruct.genruntimeconfig.cache
