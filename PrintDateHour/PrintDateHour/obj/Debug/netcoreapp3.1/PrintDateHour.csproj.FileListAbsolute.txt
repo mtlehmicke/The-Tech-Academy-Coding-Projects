@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\bin\Debug\netcoreapp3.1\PrintDateHour.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PrintDateHour\PrintDateHour\obj\Debug\netcoreapp3.1\PrintDateHour.genruntimeconfig.cache
