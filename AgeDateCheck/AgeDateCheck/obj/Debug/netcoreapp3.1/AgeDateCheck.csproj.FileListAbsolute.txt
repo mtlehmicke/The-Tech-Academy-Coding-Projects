@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\bin\Debug\netcoreapp3.1\AgeDateCheck.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\AgeDateCheck\AgeDateCheck\obj\Debug\netcoreapp3.1\AgeDateCheck.genruntimeconfig.cache
