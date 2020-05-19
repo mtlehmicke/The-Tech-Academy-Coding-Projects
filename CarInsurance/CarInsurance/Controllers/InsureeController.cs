@@ -98,7 +98,7 @@ namespace CarInsurance.Controllers
             {
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
-                return RedirectToAction("Details");
+                return RedirectToAction("Index");
             }
 
             return View(insuree);
