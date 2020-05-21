@@ -15,14 +15,14 @@ namespace CarInsurance.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Car Insurance Quote App via ASP.NET Framework.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Sample contact page.";
 
             return View();
         }
