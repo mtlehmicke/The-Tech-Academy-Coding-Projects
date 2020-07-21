@@ -1,0 +1,3 @@
+Create two new repositories to store coding projects in from this course - one for small projects and one for large projects.
+
+As an example, you could name your repositories: “The Tech Academy Basic HTML-CSS Projects” and “The Tech Academy HTML-CSS Coding Projects”.

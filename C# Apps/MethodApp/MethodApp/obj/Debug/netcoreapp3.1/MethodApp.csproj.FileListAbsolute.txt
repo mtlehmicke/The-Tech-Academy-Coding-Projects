@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\bin\Debug\netcoreapp3.1\MethodApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\MethodApp\MethodApp\obj\Debug\netcoreapp3.1\MethodApp.genruntimeconfig.cache

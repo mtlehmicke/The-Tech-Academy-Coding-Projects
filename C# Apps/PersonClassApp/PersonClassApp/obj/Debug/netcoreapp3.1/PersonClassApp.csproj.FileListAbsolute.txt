@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\bin\Debug\netcoreapp3.1\PersonClassApp.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\obj\Debug\netcoreapp3.1\PersonClassApp.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\obj\Debug\netcoreapp3.1\PersonClassApp.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\obj\Debug\netcoreapp3.1\PersonClassApp.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\obj\Debug\netcoreapp3.1\PersonClassApp.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\PersonClassApp\PersonClassApp\obj\Debug\netcoreapp3.1\PersonClassApp.pdb

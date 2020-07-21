@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AgeDateCheck/1.0.0": {
+        "runtime": {
+          "AgeDateCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgeDateCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

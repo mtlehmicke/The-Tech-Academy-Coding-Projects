@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.exe
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.deps.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\bin\Debug\netcoreapp3.1\LambdaList.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.dll
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Projects\LambdaList\LambdaList\obj\Debug\netcoreapp3.1\LambdaList.genruntimeconfig.cache
