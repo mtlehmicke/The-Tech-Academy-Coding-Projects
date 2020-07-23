@@ -1,6 +1,6 @@
-# Live Project
+# Live Project - The SpaceBar
 ## Introduction
-During my time at The Tech Academy, I worked with a team developing an interactive Django based site for researching things about space, called the SpaceBar. It used APIs from NASA and other sources, web scraping from sites like Wikipedia, and packages like BeautifulSoup, Pandas, and Selenium. During the two week sprint I worked as a Front End developer, focusing on the website's appearance and interactive features.
+During my time at The Tech Academy, I worked with a team on two occasions, both with a different project. The first project entailed developing an interactive Django based site for researching things about space, called the SpaceBar. It used APIs from NASA and other sources, web scraping from sites like Wikipedia, and packages like BeautifulSoup, Pandas, and Selenium. During the two week sprint I worked as a Front End developer, focusing on the website's appearance and interactive features.
 
 Much of the site had already been built, so much of my work involved fixing bugs as well as adding new code to improve the UX experience. The work was tedious at times, but that made it all the more satisfying when I finally pinned down the cause of a bug and squashed it. I also discovered that I worked VERY well with a team that had clear lines of communication, well-defined goals, and individual tasks sectioned off into manageable chunks.
 
