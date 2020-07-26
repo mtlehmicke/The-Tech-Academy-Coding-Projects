@@ -1,6 +1,10 @@
 # Live Project - TheatreCMS
 ## Introduction
-During my time at The Tech Academy, I worked with a team on two occasions both with a different project. The second project
+During my time at The Tech Academy, I worked with a team on two occasions, both with a different project. The second project entailed using MVC framework to  develop a website for a (fictional) local theater, called TheaterCMS. It was constructed using ASP.NET Framework 4.7.2, with packages including Bootstrap, Antlr, and Owin. During the two week sprint I worked as a Full Stack developer, working on both the front and back end of the website to restrict administrator privileges to users in that role alone, as well as fixing the site's ability to let users rent the venue for their production.
+
+Since much of the site had been built already, I had to make sure that any alteration I made did not break something else, as well as learn on the job how to fix the issues I was tasked with resolving.
+
+Below are code snippets from the two major issues that I resolved during the sprint.
 
 ## Restricting Edit Link to Admins Only
 I added code that hid the edit button for the site's pages unless the user was an administrator.
