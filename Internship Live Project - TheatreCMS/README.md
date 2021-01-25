@@ -1,4 +1,4 @@
-# Live Project - TheatreCMS
+# Internship Live Project - TheatreCMS
 ## Introduction
 During my time at The Tech Academy, I worked with a team on two occasions, both with a different project. The second project entailed using MVC framework to  develop a website for a (fictional) local theater, called TheaterCMS. It was constructed using ASP.NET Framework 4.7.2, with packages including Bootstrap, Antlr, and Owin. During the two week sprint I worked as a Full Stack developer, working on both the front and back end of the website to restrict administrator privileges to users in that role alone, as well as fixing the site's ability to let users rent the venue for their production.
 
